@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  border: 4px outset #000000;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px 0;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #C3C3C3;
+  text-align: center;
+  border: 10px outset #000000;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+.titulo-principal{
+  padding:1em 0;
+  font-size: 2rem;
+  text-align: center;
+  color: #FF0000;	
+  
+}
+.rodape{
+  height: 20vh;
+  width: 100%;
+  padding: 1em 0;
+  text-align: center;
+  font-size: 1rem;
+  color: #FF0000;
+}
