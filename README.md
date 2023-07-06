@@ -1,7 +1,7 @@
  ### <h2 align="center"> 🕹️ Jogo Freeway 🕹️</h2>
  <br><br>
  
-🔥 Mini projeto do jogo freeway em Javascript, html e css. Projeto realizado através do curso de lógica de programação pelo Alura ; 
+🔥 Mini projeto do jogo freeway em Javascript, html e css. Projeto totalmente dinamico e divertido; 
 
 
 <br><img width="50%" height="50%" align="center" src="https://user-images.githubusercontent.com/125704167/235934016-93f5a26e-a548-4c84-907b-b4fa442159c3.png">
